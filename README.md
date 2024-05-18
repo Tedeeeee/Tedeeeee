@@ -10,7 +10,7 @@
 
 ## Main Project
 - [homaura](https://github.com/Tedeeeee/homaura) : Service to purchase products And Coupons are issued on a first-come, first-served basis
-  - [ReadMe]() : explanation about homaura
+  - [ReadMe](https://github.com/Tedeeeee/homaura/blob/main/README.md) : explanation about homaura
 
 ## Study & Skill
 <div>
