@@ -1,9 +1,26 @@
-# 윤태식 · Backend Engineer
+# 윤태식
+<div>
 
-대량 처리와 외부 연동 속에서도 데이터가 틀어지지 않게 지키는 백엔드 개발자입니다.
+ [![Gmail Badge](https://img.shields.io/badge/gksrmf359@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gksrmf359@gmail.com)](mailto:gksrmf359@gmail.com)
 
-- 업무 코드는 회사 저장소(비공개)에 있어 여기에는 보이지 않습니다. 주요 작업은 이력서에 정리했습니다.
-- Contact · gksrmf359@gmail.com
+</div>
 
-### Tech
-Java · Spring Boot · JPA · MyBatis · Kafka · PostgreSQL · Oracle · TypeScript · NestJS · AWS
+##### 대량 처리와 외부 연동 속에서도 데이터가 틀어지지 않게 지키는 백엔드 개발자 윤태식입니다.
+
+## Skill
+<div>
+
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=hibernate&logoColor=white"/>
+<img src="https://img.shields.io/badge/MyBatis-000000?style=flat-square"/>
+<img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square"/>
+<br>
+<br>
+<img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=claude&logoColor=white"/>
+<img src="https://img.shields.io/badge/Codex-412991?style=flat-square"/>
+
+</div>
